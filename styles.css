@@ -1,0 +1,17 @@
+.home {
+    background-image: url(assets/images/hero-bg.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.intro {
+    text-align: right;
+    font-size: 48px;
+    color: #3A4F7A;
+}
+
+.intro-desc {
+    text-align: right;
+    font-size: 32px;
+    color: #3A4F7A;
+}
