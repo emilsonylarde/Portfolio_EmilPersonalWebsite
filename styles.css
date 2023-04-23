@@ -38,7 +38,6 @@
 }
 
 .graphics-design a:hover {
-    color: red;
     text-decoration: underline;
 }
 
@@ -48,16 +47,11 @@
 }
 
 .web-development a:hover {
-    color: red;
     text-decoration: underline  ;
 }
 
 .me a {
     color: white;
-}
-
-.me a:hover {
-    color: red;
 }
 
 #Contact {
