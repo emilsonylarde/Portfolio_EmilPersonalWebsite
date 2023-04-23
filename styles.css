@@ -31,3 +31,31 @@
     text-decoration: underline;
     color: #E49393;
 }
+
+.graphics-design a {
+    color: black;
+    text-decoration: none;
+}
+
+.graphics-design a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.web-development a {
+    color: white;
+    text-decoration: none;
+}
+
+.web-development a:hover {
+    color: red;
+    text-decoration: underline  ;
+}
+
+.me a {
+    color: white;
+}
+
+.me a:hover {
+    color: red;
+}
