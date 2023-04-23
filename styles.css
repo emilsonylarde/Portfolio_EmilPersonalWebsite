@@ -1,5 +1,5 @@
 .home {
-    background-image: url(assets/images/hero-bg.png);
+    background: linear-gradient(90deg, rgba(69,69,69,1) 0%, rgba(154,154,154,1) 43%, rgba(233,233,233,1) 100%);
     background-size: auto;
     background-repeat: no-repeat;
 }
@@ -7,11 +7,27 @@
 .intro {
     text-align: right;
     font-size: 48px;
-    color: #3A4F7A;
+    color: white;
 }
 
 .intro-desc {
     text-align: right;
     font-size: 32px;
-    color: #3A4F7A;
+    color: white;
+}
+
+.portfolio-list{
+    list-style-type: none;
+    margin-top: 40px;
+    font-size: 36px;
+}
+
+.portfolio-list a {
+    color: #454545;
+    text-decoration: none;
+}
+
+.portfolio-list a:hover {
+    text-decoration: underline;
+    color: #E49393;
 }
